@@ -1,0 +1,98 @@
+
+.footer {
+    background-color: #343636;
+    text-align: center;
+    
+}
+.footer .datos h3 {
+    
+    font-size: 38px;
+   display: block;
+   color: #fff;
+   max-width: 850px;
+   padding-bottom: 1px;
+   border-bottom: #fff solid 1px;
+   text-align: center;
+   margin: 0 auto;
+   margin-bottom: 30px;
+
+}
+.footer .datos span {
+    
+    font-size: 17px;
+    display: block;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.footer .datos p {
+    
+    font-size: 17px;
+    display: block;
+    color: #fff;
+    line-height: 30px;
+}
+
+
+
+ul.iconos {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 5px;
+}
+ul.iconos li {
+    float: left;
+    height: 60px;
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 20px;
+}
+ul.iconos li:last-child {
+    padding-right: 0px;
+}
+ul.iconos li a {
+color: #fff;
+width: 40px;
+height: 40px;
+border: solid #fff 1px;
+float: left;
+text-align: center;
+line-height: 40px;
+border-radius: 100%;
+font-size: 18px;
+} 
+
+ul.iconos li a:hover {
+    background: red;
+border: solid #2819ad 1px;        
+color:black;
+}
+
+.copyright {
+    background: #fff;
+    padding: 20px 0px 20px 0;
+    margin-top: 50px;
+}
+.copyright p {
+    color: #000;
+    font-size: 16px;
+    text-align: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.fila {
+    padding-top: 60px;
+}
+
+#color{
+    text-decoration: none;
+    color:white;
+  
+}
+.fondo{
+    background-image: url(./IMG/xd.jpg);
+}
