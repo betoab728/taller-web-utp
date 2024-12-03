@@ -97,7 +97,7 @@ if (isset($_SESSION['carrito'])) {
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="PAGINASERVICIOS.php">Clínicos</a></li>
                                     <li><a class="dropdown-item" href="estetica.php">Estética Canina</a></li>
-                                    <li><a class="dropdown-item" href="ProductoVista.php">Petshop</a></li>
+                                    <li><a class="dropdown-item disabled" href="ProductoVista.php">Petshop</a></li>
                                 </ul>
                             </li>
                             <a class="nav-link" href="cita.php">Contáctanos</a>
